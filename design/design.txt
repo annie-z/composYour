@@ -1,0 +1,47 @@
+Problem being solved:
+The problem I am attempting to solve is the need for a music composition
+software that is easy to use and accessible for those who may not know much
+about music theory.
+
+General approach to solving it:
+My code attempts to solve this problem by creating a variety of different,
+easy-to-understand modes that allow a user to create music without knowing much
+about actually reading music. They can select notes and change attributes of
+these notes very easily as well as remove notes quickly if they make a mistake.
+If a user is not sure whether or not their music sounds good, they can use the
+play function to play what they have written so far. If they are not sure 
+whether or not their beats satisfy the time signature, there is a simple-to-use
+beatcheck function that operates similarly to spellcheck and saves those who
+are not rhythmically savvy time. People can also save their projects for future
+use as well as open previous projects. This could provide for the functionality
+of sharing sheet music between computers so that people can see what others have
+written.
+
+User interface:
+My user interface consists of a comprehensive set of welcome screens that allow
+you to customize your music score or open a previously created music score. My
+page for clef choice includes short descriptions of the clefs in case someone
+is unfamiliar with the clef choices included and my time signature choice page
+includes the number of beats on top and the note value on the bottom as this is
+the way that time signatures are displayed on musical scores.
+
+My page for music composition includes file functions in the top left corner as
+this is how most other software is formatted. The top right corner contains 
+functions that would be helpful for the user, such as checking their beats and
+pulling up a help screen. The top bar contains all of the different modes that
+are possible for easy switching between modes. The side bar contains options
+for the add function since the add function is the leftmost mode button. The 
+page tracker is kept on the bottom as most other software follows this format
+as well. All of the buttons also have highlights to show you which mode is 
+currently being activated and any type of selection always appears highlighted
+for user ease.
+
+Similar programs:
+My design is based heavily off of MuseScore as it is the music composition 
+software that I mostly used. My event functions are very similar to those of
+other music composition softwares, except with less complexity for increased
+ease of understanding. My program also does not automatically delete notes or
+adjust measures as it can be difficult to understand why this happens sometimes
+if you are not as well-versed in music theory. Instead, there is a friendly
+checker that tells you what measures are incorrect and which direction the
+rhythm needs to be adjusted in.
